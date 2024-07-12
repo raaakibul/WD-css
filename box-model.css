@@ -25,8 +25,21 @@ body {
 }
 /* adding border */
 .border{
-    border: 10px green solid;
+    border-left: 10px green solid;
+    border-right: 5px blue solid;
+    border-top: 7px red solid;
+    border-bottom: 8px black solid;
     border-radius: 10px;
     
     width: 250px;
+}
+/* box model content */
+/* border, padding, margin, border-radius */
+/* content = p, h1 etc */
+
+.container{
+    background-color: tomato;
+    width: 150px;
+    height: 200px;
+    padding: 5px;
 }
