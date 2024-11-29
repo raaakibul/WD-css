@@ -19,6 +19,6 @@ a{
     text-decoration: none;
     
 }
-a:hover{
-    color: red;
+a.my-link:hover{
+    color: green;
 }
