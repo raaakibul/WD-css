@@ -11,3 +11,7 @@ console.log(typeof(num));
 
 num = toString(num)
 console.log(num);
+
+num = parseFloat(num)
+console.log(num);
+
