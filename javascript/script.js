@@ -8,7 +8,7 @@ console.log(number);
 // number method
 var num = 20
 console.log(typeof(num));
-
+// kisui pari na
 num = toString(num)
 console.log(num);
 
