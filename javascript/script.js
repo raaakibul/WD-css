@@ -16,3 +16,7 @@ num = parseFloat(num)
 console.log(num);
 
 console.log("Rakibul " + "Islam");
+
+var text1 = "Bangladesh"
+text = text1.toLowerCase(text1)
+console.log(text);
